@@ -1,0 +1,17 @@
+{
+    "macro_average": {
+        "accuracy": 0.9339774557165862,
+        "precision": 0.9278845978376115,
+        "recall": 0.9280937889810315,
+        "f1_score": 0.9275602328471766
+    },
+    "micro_average": {
+        "accuracy": 0.9339774557165862,
+        "precision": 0.9339774557165862,
+        "recall": 0.9339774557165862,
+        "f1_score": 0.9339774557165862
+    },
+    "avg_inference_time_ms_per_sample": 0.9117932711246509,
+    "avg_inference_time_ms_per_batch": 28.31118106842041,
+    "test_loss": 0.22292169105507517
+}
